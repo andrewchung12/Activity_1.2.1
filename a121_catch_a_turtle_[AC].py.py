@@ -15,6 +15,8 @@ leaderboard_file_name = "a122_leaderboard.txt"
 leader_names_list = []
 leader_scores_list = []
 player_name = input ("Please enter your name:")
+
+
  
 font_setup = ("Helvetica", 20, "normal")
 different_sizes = [.5, .7, .9, 1.2, 1.4, 1.6, 1.8, 2, 2.2, 2.4, 2.6, 2.8, 3]
